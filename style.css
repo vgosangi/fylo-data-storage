@@ -1,0 +1,113 @@
+
+   @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&family=Raleway&display=swap');
+   
+
+.bg{
+    background-color:hsl(229, 57%, 11%) ;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+   
+}
+
+.box1{
+    width: 365px;
+    height: 200px;
+    background-color: hsl(228, 56%, 26%);
+    position: absolute;
+    top: 200px;
+    left: 260px;
+    border-top-right-radius: 100px;
+}
+.box2{
+    width: 540px;
+    height: 150px;
+    background-color: hsl(228, 56%, 26%);
+    position: absolute;
+    top: 250px;
+    left: 650px;
+    border-radius: 10px;
+    padding: 25px;
+}
+.logo{
+    margin-top: 40px;
+}
+
+.icon{
+    width: 50px;
+    height: 50px;
+    background-color: hsl(229, 57%, 11%);
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 25px;
+    margin-top: 30px;
+
+}
+.data-info{
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    color: white;
+    font-weight: 200;
+
+}
+span{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+.data-bar{
+    width: 460px;
+    height: 20px;
+    background-color: hsl(229, 57%, 11%);
+    border-radius: 10px;
+    
+    
+}
+.data{
+    width: 330px;
+    height: 13px;
+    background-image:linear-gradient(to right,hsl(6, 100%, 80%), hsl(335, 100%, 65%)) ;
+    border-radius: 10px;
+}
+.circle{
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 2px;
+}
+.data-limit{
+    font-family: 'Raleway', sans-serif;
+    font-size: 10px;
+    color: white;
+    padding: 5px;
+    font-weight: 700;
+}
+.warning-box{
+    background-color: white;
+    width: 170px;
+    height: 70px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+   
+}
+.cornered {
+    width: 0px;
+    height: 20px;
+    border-top: 30px solid white;
+    border-left: 30px solid  hsl(228, 56%, 26%);
+    margin-left: 140px;
+}
+.align{
+    margin-top: -180px;
+    margin-left: 300px;
+}
+.data-left{
+    font-family: 'Raleway', sans-serif;
+    color: hsl(229, 57%, 11%) solid;
+    font-size: 34px;
+    padding: 5px;
+    font-weight: 700 ;
+}
